@@ -1,4 +1,4 @@
-# W O R (l) D S
+# W O R (L) D S
 
 we enter into a preformed social world, and through our social performance we restructure that world. The social world makes us, we make the social world. 
 
