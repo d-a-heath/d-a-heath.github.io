@@ -13,7 +13,7 @@ Some areas of interest include:
   - categorization & category learning
   - direct (social) perception
   - interpersonal coordination
-  - language ideologies
+  - language ideologies & bias
   - modality (in both relevant senses)
   - negation
   - perceptual (language) learning
