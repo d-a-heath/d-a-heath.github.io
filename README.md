@@ -9,9 +9,13 @@ Language is, for humans at least, a foundational component of this dialogic self
 I am currently a PhD student in Experimental Psychology (Cognitive Area) at the University of Memphis working in the [Language and Behavior Lab](https://sites.google.com/site/stephaniehuette/people) with Dr. Stephanie Huette. Previously, I worked for the [Langauge Conservancy](https://languageconservancy.org/) and the Crow Language Consortium as a linguist on several langauge revitalization projects. I hold a MA in Linguistics from the University of Montana. 
 
 Some areas of interest include:
-  - interpersonal coordination
-  - categorization & category learning
-  - negation
-  - modality (in both relevant senses)
   - abstraction & metafor
+  - categorization & category learning
+  - direct (social) perception
+  - interpersonal coordination
+  - language ideologies
+  - modality (in both relevant senses)
+  - negation
+  - perceptual (language) learning
+
 
